@@ -1,0 +1,23 @@
+title: Vacillation Blog
+description: A blog about thoughts and ideas
+baseurl: ""
+url: ""
+theme: minima
+
+# Collections for organizing content
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug/
+
+# Default settings
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "I"
+
+# Markdown processor
+markdown: kramdown

@@ -1,3 +1,8 @@
-# Alternative page
+---
+layout: home
+title: Welcome
+---
 
-Hello World
+# Welcome to Vacillation Blog
+
+Vacillation: Fascinated, and procrastinated
