@@ -1,5 +1,5 @@
-title: Vacillation Blog
-description: A blog about thoughts and ideas
+title: Vacillation
+description: Vacillation: Fascinated, and procrastinated
 baseurl: ""
 url: ""
 theme: minima
@@ -17,7 +17,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "I"
 
 # Markdown processor
 markdown: kramdown

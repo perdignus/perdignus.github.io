@@ -1,8 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: 🏠
 ---
-
-# Welcome to Vacillation Blog
 
 Vacillation: Fascinated, and procrastinated
